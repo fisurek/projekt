@@ -1,0 +1,137 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WypozyczalniaSamochodow
+build_property.RootNamespace = WypozyczalniaSamochodow
+build_property.ProjectDir = C:\Users\Przemek\Downloads\projekt\projekt\WypozyczalniaSamochodow\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Przemek\Downloads\projekt\projekt\WypozyczalniaSamochodow
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Cars/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Cars/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Cars/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Cars/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Cars/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Contracts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Contracts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Contracts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Contracts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Contracts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Customers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Customers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Customers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Customers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Data/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0YVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Data/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0YVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Data/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0YVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Data/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0YVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Data/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0YVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Shared/Components/Car/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Shared/Components/Contract/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29udHJhY3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Shared/Components/Customer/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ3VzdG9tZXJcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Przemek/Downloads/projekt/projekt/WypozyczalniaSamochodow/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ys7i8c8utc
